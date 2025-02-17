@@ -5,13 +5,13 @@
     "keywords": ["Google Translater", "pyrogram", "telegram bot"],
     "env": {
         "TOKEN": {
-            "description": "Your Bot token from @Botfather"
+            "description": "7003928482:AAGLBfi_eKNlEoC77hW-Wb_baEWUfqzmqjA"
         },
         "API_ID": {
-            "description": "Your API_ID from https://my.telegram.org/apps"
+            "description": "19832689"
         },
         "API_HASH": {
-            "description": "Your API_HASH from https://my.telegram.org/apps"
+            "description": "a35f2c0d6c4d25456cd01dbe3547f5de"
         }
     },
     "buildpacks": [
