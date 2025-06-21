@@ -1,4 +1,4 @@
-TgCrypto
+
 pyrogram==2.0.93
 googletrans==3.1.0a0
 requests
