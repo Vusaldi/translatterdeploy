@@ -1,8 +1,5 @@
-from pyrogram import Client, filters
-from pyrogram.enums import ParseMode
-from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
-from googletrans import Translator
-import os
+from keep_alive import keep_alive
+keep_alive()
 
 TOKEN = os.environ.get("TOKEN", "zzzzzzzz")
 API_ID = int(os.environ.get("API_ID", "8953338"))
